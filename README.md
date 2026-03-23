@@ -154,22 +154,6 @@ Use them in marketing campaigns to improve conversion.
 Personalize marketing for high-spending age groups.
 
 
-Repository Structure
-Customer-Shopping-Behavior-Analysis
-│
-├── data
-│   └── dataset.csv
-│
-├── notebooks
-│   └── data_cleaning_analysis.ipynb
-│
-├── sql
-│   └── business_queries.sql
-│
-├── dashboard
-│   └── powerbi_dashboard.pbix
-│
-└── README.md
 Skills Demonstrated
 Data Cleaning & Preparation
 Exploratory Data Analysis
