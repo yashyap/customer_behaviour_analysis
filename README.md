@@ -8,9 +8,11 @@ This project analyzes customer shopping behavior using transactional data from 3
 
 The objective is to transform raw transactional data into actionable business insights using a full analytics workflow involving Python, SQL, and Power BI.
 
-This project demonstrates an end-to-end data analytics pipeline, from data cleaning and feature engineering to business analysis and dashboard visualization.
+This project demonstrates an end-to-end data analytics pipeline, from data cleaning and feature engineering to business analysis and dashboard visualization. 
 
-Tech Stack
+
+Tech Stack 
+
 
 Languages & Tools
 
@@ -55,8 +57,11 @@ Review Rating
 Shipping Type
 Data Quality
 37 missing values found in the Review Rating column.
-Missing values were handled using median imputation per product category.
-Project Workflow
+Missing values were handled using median imputation per product category. 
+
+
+Project Workflow 
+
 1. Data Cleaning & Preparation (Python)
 
 Performed initial exploration and cleaning using Pandas in Jupyter Notebook.
@@ -81,11 +86,12 @@ Database Integration
 
 The cleaned dataset was loaded into PostgreSQL for structured business analysis using SQL queries.
 
-This step simulates how analysts work with production databases instead of spreadsheets.
+This step simulates how analysts work with production databases instead of spreadsheets. 
 
-Business Analysis Using SQL
 
-SQL queries were written to answer key business questions:
+2. Business Analysis Using SQL
+
+SQL queries were written to answer key business questions: 
 
 Revenue Insights
 Revenue contribution by gender
@@ -102,15 +108,17 @@ Comparison of Express vs Standard shipping spend
 Revenue comparison between Subscribers vs Non-Subscribers
 Customer Segmentation
 
-Customers were segmented into:
+Customers were segmented into: 
+
 
 New Customers
 Returning Customers
 Loyal Customers
 
-based on purchase history.
+based on purchase history. 
 
-Power BI Dashboard
+
+3. Power BI Dashboard 
 
 An interactive Power BI dashboard was built to visualize insights for stakeholders.
 
@@ -126,11 +134,17 @@ The dashboard allows business users to quickly explore customer behavior pattern
 
 Key Business Insights
 
-Certain age groups contribute significantly more revenue
-Subscribers show stronger purchase behavior
-Express shipping customers tend to spend more
-Some products rely heavily on discount-driven sales
-Business Recommendations
+Certain age groups contribute significantly more revenue 
+
+Subscribers show stronger purchase behavior 
+
+Express shipping customers tend to spend more 
+
+Some products rely heavily on discount-driven sales 
+
+Business Recommendations 
+
+
 
 Based on the analysis:
 
@@ -153,19 +167,30 @@ Use them in marketing campaigns to improve conversion.
 
 5. Target High-Value Customer Segments
 
-Personalize marketing for high-spending age groups.
+Personalize marketing for high-spending age groups. 
+
+
 
 
 Skills Demonstrated
 
-Data Cleaning & Preparation
-Exploratory Data Analysis
-Feature Engineering
-SQL Business Analysis
-Customer Segmentation
-Data Visualization
-Business Insight Generation
-Dashboard Development
+
+Data Cleaning & Preparation 
+
+Exploratory Data Analysis 
+
+Feature Engineering 
+
+SQL Business Analysis 
+
+Customer Segmentation 
+
+Data Visualization 
+
+Business Insight Generation 
+
+Dashboard Development 
+
 
 
 Author
