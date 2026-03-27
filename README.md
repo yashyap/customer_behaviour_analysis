@@ -125,6 +125,7 @@ Subscriber vs Non-Subscriber Revenue
 The dashboard allows business users to quickly explore customer behavior patterns.
 
 Key Business Insights
+
 Certain age groups contribute significantly more revenue
 Subscribers show stronger purchase behavior
 Express shipping customers tend to spend more
@@ -132,6 +133,7 @@ Some products rely heavily on discount-driven sales
 Business Recommendations
 
 Based on the analysis:
+
 
 1. Boost Subscription Adoption
 
@@ -155,6 +157,7 @@ Personalize marketing for high-spending age groups.
 
 
 Skills Demonstrated
+
 Data Cleaning & Preparation
 Exploratory Data Analysis
 Feature Engineering
